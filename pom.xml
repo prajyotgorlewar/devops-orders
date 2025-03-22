@@ -37,7 +37,7 @@
 		<dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
-			<version>LATEST</version>
+			<version>1.18.30</version> <!-- Or the latest stable version of Lombok -->
 			<optional>true</optional>
 		</dependency>
 		<dependency>
